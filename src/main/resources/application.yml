@@ -1,0 +1,8 @@
+server:
+  port: 9191
+aws:
+  sns:
+    topic:
+      arn: arn:aws:sns:us-east-2:952375157783:jtf-sns-topic
+      subscription:
+        endpoint: java.technologies.frameworks@gmail.com
